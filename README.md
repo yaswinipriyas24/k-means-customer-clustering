@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Segmentation using K-Means Clustering
 
 ### Overview 📊
@@ -35,3 +36,6 @@ Execute the Python script from your terminal:
 ``` bash
 python your_script_name.py
 ```
+=======
+# k-means-customer-clustering
+>>>>>>> de070cc1dac11ce3e098929b3784d01dd880b685
