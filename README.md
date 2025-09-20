@@ -34,7 +34,7 @@ Download the Mall_Customers.csv file and place it in the same directory as the P
 
 Execute the Python script from your terminal:
 ``` bash
-python your_script_name.py
+python clusters.py
 ```
 =======
 # k-means-customer-clustering
