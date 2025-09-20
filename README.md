@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Customer Segmentation using K-Means Clustering
 
 ### Overview 📊
